@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(85, 41, 126);
+}
+
+  html, body {
+    margin: 0; 
+}
+.main{
+    display:flex;
+}
+.menu{
+    width: 500px;
+}
+#draw{
+    width: 800px;
+    height: 800px;
+    border: solid 5px blueviolet;
+    background-color: white;
+    border-radius: 10px; 
+}
+button{
+display: block;
+margin: 40px;
+}
+button:hover{
+    cursor: pointer;
+}
